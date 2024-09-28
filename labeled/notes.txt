@@ -1,0 +1,2 @@
+1. Anthropic Haiku SAE sentences Labels had <UNKNOWNS>, fixed that and added their labels.
+TODO: Copy the SAE sentences that your replaced back into anthropic_Haiku-sae.csv, because the <UNKNOWN> will be there too.
